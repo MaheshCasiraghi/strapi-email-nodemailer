@@ -12,6 +12,4 @@
 
 ## Installation
 
-```bash
-npm i strapi-email-nodemailer
-```
+npm i MaheshCasiraghi/strapi-email-nodemailer
